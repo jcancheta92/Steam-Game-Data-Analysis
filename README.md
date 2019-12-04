@@ -8,4 +8,4 @@ You can find the dataset under the user's Kaggle page here:
 
 I am avid gamer and Steam is the main platform that I play on and I have always been curious to explore a dataset on Steam. Thanks to u/Rokanov aka Nik Davis, he has compiled an impressive data set that I can't wait to explore deeper.
 
-[Steam Game Data Analysis Notebook]()
+[Steam Game Data Analysis Notebook](https://github.com/jcancheta92/Steam-Game-Data-Analysis/blob/master/Steam_Game_Data_Analysis.ipynb)
